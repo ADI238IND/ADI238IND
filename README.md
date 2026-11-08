@@ -14,19 +14,19 @@ I build applied AI tools that let people inspect the evidence behind an answer.
 
 A live app that checks published venue information against a visitor's access needs. It organizes citations, restrictions, and open questions into a visit brief. I built the TinyFish research workflow, source rechecks, and report export.
 
-**[Try the live app ↗](https://accesstrail.vercel.app)** · [Source code](https://github.com/ADI238IND/accesstrail)
+**[Try the live app](https://accesstrail.vercel.app)** · [Source code](https://github.com/ADI238IND/accesstrail)
 
 [![GeoAlibi · Research prototype](assets/project-geoalibi.svg)](https://github.com/ADI238IND/GeoAlibi)
 
 A Python prototype that tests whether apparent changes in satellite imagery survive alternative explanations. I built the evidence review workflow and documented an eight-scene LEVIR-CD diagnostic with separate results for candidate regions and supported detections.
 
-**[Watch the walkthrough ↗](https://youtu.be/mj2dss_nWP0)** · [Source code](https://github.com/ADI238IND/GeoAlibi) · [Evaluation and limits](https://github.com/ADI238IND/GeoAlibi/blob/main/docs/EXPANDED_EVALUATION.md)
+**[Watch the walkthrough](https://youtu.be/mj2dss_nWP0)** · [Source code](https://github.com/ADI238IND/GeoAlibi) · [Evaluation and limits](https://github.com/ADI238IND/GeoAlibi/blob/main/docs/EXPANDED_EVALUATION.md)
 
 [![Stillwater · Desktop prototype](assets/project-stillwater.svg)](https://github.com/ADI238IND/stillwater-presage)
 
 A desktop prototype that uses Presage breathing signals to adjust reading pace, with explicit consent, manual reading, and a separate synthetic preview.
 
-**[Explore the source and setup ↗](https://github.com/ADI238IND/stillwater-presage)**
+**[Explore the source and setup](https://github.com/ADI238IND/stillwater-presage)**
 
 ## `02 / Technical work`
 
